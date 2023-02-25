@@ -1,0 +1,7 @@
+.modal{
+    position: absolute;
+    left: 50%;
+    bottom: 20%;
+    transform: translateX(-50%);
+    width: 500px;
+}
